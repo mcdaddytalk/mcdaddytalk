@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm MCDaddyTalk 👋
 
 <!--
 **mcdaddytalk/mcdaddytalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+My GitHub Stats:
 [![MCDaddyTalk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcdaddytalk)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdaddytalk)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdaddytalk)](https://github.com/anuraghazra/github-readme-stats)
