@@ -1,4 +1,4 @@
-### Hi there, I'm MCDaddyTalk 👋
+### Hi there, I'm MCDaddyTalk (kbtalkin#0012) 👋
 
 <!--
 **mcdaddytalk/mcdaddytalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
